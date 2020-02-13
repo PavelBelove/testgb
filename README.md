@@ -1,2 +1,0 @@
-# testgb
-Test GB repo
